@@ -1,7 +1,7 @@
 # untitled4
 First, get angular for sample app with this command:
 
-bower install
+    bower install
 
 Make sure you can access it with this URL:
 
