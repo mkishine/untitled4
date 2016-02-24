@@ -9,9 +9,9 @@ http://localhost:63342/untitled4
 
 Then install and configure protractor:
 
-npm install
-node_modules\.bin\webdriver-manager update
+    npm install
+    node_modules\.bin\webdriver-manager update
 
 Finally, run protractor:
 
-node_modules\.bin\protractor conf.js
+    node_modules\.bin\protractor conf.js
