@@ -1,4 +1,3 @@
-# untitled4
 First, get angular for sample app with this command:
 
     bower install
